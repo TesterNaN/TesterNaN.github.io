@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>TesterNaN的博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://testernan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://testernan.github.io/"/>
   <updated>2022-06-20T11:56:30.365Z</updated>
-  <id>http://example.com/</id>
+  <id>https://testernan.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>TesterNaN</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://example.com/2022/06/20/test-my-site/"/>
-    <id>http://example.com/2022/06/20/test-my-site/</id>
+    <link href="https://testernan.github.io/2022/06/20/test-my-site/"/>
+    <id>https://testernan.github.io/2022/06/20/test-my-site/</id>
     <published>2022-06-20T11:56:30.000Z</published>
     <updated>2022-06-20T11:56:30.365Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/06/20/hello-world/"/>
-    <id>http://example.com/2022/06/20/hello-world/</id>
+    <link href="https://testernan.github.io/2022/06/20/hello-world/"/>
+    <id>https://testernan.github.io/2022/06/20/hello-world/</id>
     <published>2022-06-20T11:14:09.405Z</published>
     <updated>2022-06-20T11:14:09.405Z</updated>
     
