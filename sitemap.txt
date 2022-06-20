@@ -1,0 +1,3 @@
+http://example.com/2022/06/20/test-my-site/
+http://example.com/2022/06/20/hello-world/
+http://example.com/
