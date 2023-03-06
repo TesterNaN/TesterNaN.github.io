@@ -1,3 +1,7 @@
+https://testernan.github.io/2023/03/06/%E4%BD%BF%E7%94%A8stable-diffusion-webui%E9%83%A8%E7%BD%B2NovelAi-Stable-Diffusion-%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B%E3%80%81%E5%91%BD%E4%BB%A4%E8%A7%A3%E9%87%8A%E3%80%81%E5%8E%9F%E7%90%86%E8%AE%B2%E8%A7%A3-colab%E3%80%81windows%E3%80%81Linux/
 https://testernan.github.io/2022/06/20/test-my-site/
 https://testernan.github.io/2022/06/20/hello-world/
 https://testernan.github.io/
+https://testernan.github.io/tags/NovelAI/
+https://testernan.github.io/tags/Stable-Diffusion/
+https://testernan.github.io/tags/Colab/
