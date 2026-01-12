@@ -498,6 +498,9 @@
     </div>
 
     <script>
+        //自动填充链接地址
+         document.querySelector("#url-input").value=new URLSearchParams(window.location.search).get("ccmz");
+        
         // 核心转换逻辑
         class CCMZConverter {
             constructor() {
